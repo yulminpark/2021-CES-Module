@@ -7,7 +7,7 @@ Codebook for Variables
           Only the questions that I used for my research are included in this codebook.
 
 Total Number of Interviews:   1,000 individuals
-Field Period:                      November 03, 2021 - December 07, 2021
+Field Period:                  November 03, 2021 - December 07, 2021
 
 ================================================================================
            Variable List                                 
