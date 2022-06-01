@@ -1,13 +1,13 @@
 ================================================================================
 Codebook for Variables
 (Extracted from the 2021 Cooperative Election Study (CES, 
- formerly the Cooperative Congressional Election Study, or CCES) Module)
+   formerly the Cooperative Congressional Election Study, or CCES) Module)
 
 * Note:   Our module is omnibus, and therefore, we cannot make publicly available other researchers' questions.
-            Only the questions that I used for my research are included in this codebook.
+          Only the questions that I used for my research are included in this codebook.
 
 Total Number of Interviews:   1,000 individuals
-Field Period:  November 03, 2021 - December 07, 2021
+Field Period:                      November 03, 2021 - December 07, 2021
 
 ================================================================================
            Variable List                                 
@@ -19,7 +19,7 @@ CCEStake                      Consent to participate
 birthyr                       Birth Year
 gender4                       Gender - inclusive
 educ                          Education
-inputstate                   State of Residence
+inputstate                    State of Residence
 newsint                       Political Interest
 faminc_new                    Family income
 UTB453                        Political Protest
