@@ -1,41 +1,41 @@
-================================================================================
+==========================================================================================================
 Survey Questionnaire
 (Extracted from the 2021 Cooperative Election Study (CES, 
- formerly the Cooperative Congressional Election Study, or CCES) Module)
+   formerly the Cooperative Congressional Election Study, or CCES) Module)
 
 * Note:   Our module is omnibus, and therefore, we cannot make publicly available other researchers' questions.
-            Only the questions that I used for my research are included in this file.
+          Only the questions that I used for my research are included in this codebook.
 
 Total Number of Interviews:   1,000 individuals
-Field Period:                      November 03, 2021 - December 07, 2021
+Field Period:                 November 03, 2021 - December 07, 2021
 
 ================================================================================
            Variable List                                 
 ================================================================================
 
 caseid                        Case ID
-teamweight                 Team Weight
-CCEStake                    Consent to participate
+teamweight                    Team Weight
+CCEStake                      Consent to participate
 birthyr                       Birth Year
-gender4                     Gender - inclusive
-educ                         Education
-inputstate                   State of Residence
-newsint                      Political Interest
-faminc_new                 Family Income
-UTB453                      Political Protest
-UTB431                      Future Policies
-UTB454                      News Article Preference A
-UTB455                      News Article Preference B
-UTB434a                     Govt Policies to Solve Discrimination A
-UTB435a                     Participate A
-UTB436a                     Govt Policies to Solve Discrimination B
-UTB437a                     Participate B
+gender4                       Gender - inclusive
+educ                          Education
+inputstate                    State of Residence
+newsint                       Political Interest
+faminc_new                    Family income
+UTB453                        Political Protest
+UTB431                        Future Policies
+UTB454                        News Article Preference A
+UTB455                        News Article Preference B
+UTB434a                       Govt Policies to Solve Discrimination A
+UTB435a                       Participate A
+UTB436a                       Govt Policies to Solve Discrimination B
+UTB437a                       Participate B
 
 ================================================================================
            Survey Questionnaire - In the 2021 CES Module
 ================================================================================
 * Note:   Variables not listed here can be obtained from the 2021 CES Common Content Datatset, which is soon to
-            be publicly available on the CES website: https://cces.gov.harvard.edu/.                       
+          be publicly available on the CES website: https://cces.gov.harvard.edu/.                       
 ================================================================================
 Name:          UTB453
 Description:   Political Protest
